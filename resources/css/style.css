@@ -208,7 +208,7 @@ header .fa-times {
 }
 
 .home .box-container .box p {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
   padding: 0.7rem 2rem;
   color: #666;
 }
@@ -350,8 +350,8 @@ header .fa-times {
 
 .course .box-container .box {
   width: 25rem;
-  height: 28rem;
   margin: 3.5rem 2rem;
+  padding: 2rem 0;
   text-align: center;
   box-shadow: 0.3rem 0.3rem 0.1rem var(--violet),
     0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.3);
@@ -398,7 +398,7 @@ header .fa-times {
   width: 28rem;
   margin: 4rem 2rem;
   text-align: center;
-  padding-bottom: 1rem;
+  padding: 2rem 0;
   box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.3);
 }
 

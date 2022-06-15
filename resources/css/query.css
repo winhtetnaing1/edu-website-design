@@ -1,8 +1,11 @@
 @media (max-width: 768px) {
   html {
-    font-size: 55%;
+    font-size: 12px;
   }
 
+  .heading {
+    font-size: 3rem;
+  }
   header .fa-bars {
     display: block;
   }
@@ -43,6 +46,17 @@
     font-size: 2rem;
     color: #eee;
     padding: 1.5rem 2rem;
+  }
+  .about .row .content h3 {
+    font-size: 2rem;
+  }
+
+  .about .row .content p {
+    font-size: 1.6rem;
+  }
+
+  .home .box-container .box {
+    width: 90%;
   }
 
   .home::before {
